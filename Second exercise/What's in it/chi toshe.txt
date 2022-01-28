@@ -1,0 +1,6 @@
+khat 1:  a=30  b=18
+khat 2:  c=30
+khat 3:  d=18
+khat 4:  e=12
+khat 5:  f=3
+khat 6:  15.6
