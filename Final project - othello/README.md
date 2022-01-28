@@ -2,7 +2,7 @@ first, you can play othello in [here](https://www.eothello.com/) to understand t
 
 The playing field is 8 * 8, we show the white bead with W and the black bead with B! At the beginning of the game, two white pieces and two black pieces are crossed in the middle of the screen! Sample image of the table:
 
-![board](Fundamentals-of-Programming-Course-Exercises-CPP/End of the semester project - othello/saved_image.png)
+![board](https://github.com/pouyaardehkhani/Fundamentals-of-Programming-Course-Exercises-CPP/blob/main/End%20of%20the%20semester%20project%20-%20othello/saved_image.png)
 
 First it is the black player's turn!
 
