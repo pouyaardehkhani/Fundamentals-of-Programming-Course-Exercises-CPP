@@ -7,7 +7,7 @@ If n and n-2 were prime, count the answers.
 
 In other words, show between all the golden directions (x, x + 2) the pair whose sum of two numbers is greater than the other pairs.
 
-(** Note: You must use the function to solve the question, even if the code without your function gets a full score after reviewing your score will decrease **)
+(**Note: You must use the function to solve the question, even if the code without your function gets a full score after reviewing your score will decrease**)
 # input
 The input contains only one line containing a natural number n.
 # output
