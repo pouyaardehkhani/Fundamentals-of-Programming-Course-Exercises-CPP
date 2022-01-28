@@ -1,34 +1,34 @@
-#question
+# question
 Write a program that receives a number as a year and indicates whether it is leap year or not.
 
 The formula is as follows: years that are multiples of 100, if they are multiples of 400, and other years, if they are multiples of 4, are leap years.
-#input
+# input
 Contains a natural number as a Gregorian year.
-#output
+# output
 Print "leap year" if leap year and "normal year" otherwise.
-#example:
+# example:
 
-##Sample input 1:
+## Sample input 1:
 ```
 1600
 ```
-##Sample output 1:
+## Sample output 1:
 ```
 leap year
 ```
-##Sample input 2:
+## Sample input 2:
 ```
 2028
 ```
-##Sample output 2:
+## Sample output 2:
 ```
 leap year
 ```
-##Sample input 3:
+## Sample input 3:
 ```
 2021
 ```
-##Sample output 3:
+## Sample output 3:
 ```
 normal year
 ```

@@ -1,3 +1,4 @@
+# questions
 1) Write the value of the variables after each line and upload them in pdf format.
 ```
 int a = 30, b = 18;
