@@ -1,4 +1,4 @@
-# Fundamentals-of-Programming-Course-Exercises-CPP
+# Fundamentals-of-Programming-Course-Exercises-CPP ![license](https://img.shields.io/github/license/pouyaardehkhani/Fundamentals-of-Programming-Course-Exercises-CPP.svg)
 this repository contains the answers of my university class exercises(HW's) with their questions.
 the main language of this repository is C++.
 
